@@ -23,21 +23,31 @@ NSS's marketing material advertises its high graduation and job placement rates,
 
 #### Technologies
 - Python
-	- Jupyter Notebooks
-	- pandas
-	- matplotlib
-	- requests
-	- bs4
-	- numpy
-- iLovePDF
+	- [Jupyter Notebooks](https://jupyter.org/)
+	- [pandas](https://pandas.pydata.org/)
+	- [matplotlib](https://matplotlib.org/)
+	- [requests](https://pypi.org/project/requests/)
+	- [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
+	- [numpy](https://numpy.org/)
+- [iLovePDF](https://www.ilovepdf.com/)
 - Microsoft Excel
 - Google Slides
 
 #### Data Sources
-- Council on Integrity in Results Reporting (CIRR)
+- [Council on Integrity in Results Reporting (CIRR)](https://cirr.org/)
 	- [Tech Elevator](https://www.techelevator.com/locations/coding-bootcamp-detroit-michigan/)
-- Tennessee Higher Education Commission (THEC)
-- Livingcost.org
+	- [Hack Reactor](https://www.hackreactor.com/)
+	- [Project Shift (now Parsity)](https://projectshift.io/)
+	- [Hack Upstate Careers in Code](https://careersincode.org/)
+	- [Codeup](https://codeup.com/)
+	- [Code Platoon](https://www.codeplatoon.org/)
+	- [Codesmith](https://www.codesmith.io/)
+	- [Epicodus](https://www.epicodus.com/)
+	- [Full Stack Academy](https://www.fullstackacademy.com/tech-bootcamp)
+	- [Launch Academy](https://launchacademy.com/)
+- [Nashville Software School](https://nashvillesoftwareschool.com/programs/web-developer-full-time/)
+- [Tennessee Higher Education Commission (THEC)](https://www.tn.gov/content/dam/tn/thec/bureau/student_aid_and_compliance/dpsa/apr/2021/1769%20Nashville%20Software%20School%20Inc%20-%20APR%202020-2021.pdf)
+- [Livingcost.org](https://livingcost.org/)
 
 ### Data Acquisition
 
