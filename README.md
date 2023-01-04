@@ -14,7 +14,7 @@ NSS's marketing material advertises its high graduation and job placement rates,
 ---
 
 1. Are prospective students incentivized to choose NSS over other bootcamps, if given the opportunity?
-1. How well does NSS and its competitors preapre their students for success?
+1. How well does NSS and its competitors prepare their students for success?
 2. What are those competitors excelling at where NSS is not?
 
 ### Technologies Used and Data Sources
